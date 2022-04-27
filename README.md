@@ -41,15 +41,17 @@ The following activities were performed to test the Fintech Finder application:
 
 * Click the Send Transaction button to sign and send the transaction with your Ethereum account information. Navigate to the Transactions section of Ganache.
 
-    * Screenshot of the address balance and history on Ganache. 
+    * Screenshot of the initial/prior to transaction address balance and history on Ganache. 
     
-![Image showing address balance and history.](Images/ganache_original.png) ![Image showing address balance and history.](Images/ganache_post_tx.png)
+![Image showing address balance and history.](Images/ganache_original.png)
+
+    * Screenshot of the post transaction address balance and history on Ganache. 
+    
+![Image showing address balance and history.](Images/ganache_post_tx.png)
 
     * Screenshot of the transaction details on Ganache. 
     
 ![Image showing transaction details on Ganache.](Images/transaction_details.png)
-
-5. Return to the original transaction, and click the transaction’s To address.
 
     * Screenshot of the recipient’s address balance and history from your Ganache application.
 
